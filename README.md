@@ -1,3 +1,2 @@
 # Medikare
-An android app for healthcare using Machine Learning and Flutter.
-Sorry for the inconvinience. This android part is still under progress.
+ML models to be hosted on cloud and use APIs to use in an android app for healthcare.
